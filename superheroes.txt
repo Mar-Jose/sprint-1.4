@@ -1,10 +1,11 @@
+[
 {
     "id": 1,
     "nombreSuperHeroe": "Spiderman",
     "nombreReal": "Peter Parker",
     "nombreSociedad": "Vigilante",
     "edad": 25
-}
+},
 {
     "planetaOrigen": "Tierra",
     "debilidad": "Radioactiva",
@@ -65,3 +66,4 @@
     "Hela"
   ]
 }
+]

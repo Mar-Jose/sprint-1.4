@@ -1,69 +1,68 @@
-[
-{
+ [
+  {
     "id": 1,
-    "nombreSuperHeroe": "Spiderman",
+    "nombreSuperheroe": "Spiderman",
     "nombreReal": "Peter Parker",
     "nombreSociedad": "Vigilante",
-    "edad": 25
-},
-{
+    "edad": 25,
     "planetaOrigen": "Tierra",
     "debilidad": "Radioactiva",
     "poder": [
-        "Trepar paredes",
-        "Sentido arácnido",
-        "Super fuerza",
-        "Agilidad"
+      "trepar paredes",
+      "Sentido aracnido",
+      "Super fuerza",
+      "Agilidad"
     ],
     "habilidadEspecial": "Redes de telaraña",
     "aliado": [
-        "Ironman"
-    ],
-    "enemigo": "Duende Verde"
-},
-
-  {
-    "id": 2,
-    "nombreSuperHeroe": "Ironman",
-    "nombreReal": "Tony Stark",
-    "nombreSociedad": "Vigilante",
-    "edad": 45,
-    "planetaOrigen": "Tierra",
-    "debilidad": "Dependiente de la tecnología",
-    "poder": [
-      "Armadura blindada",
-      "Volar",
-      "Láseres"
-    ],
-    "habilidadEspecial": "Ingeniería avanzada",
-    "aliado": [
-      "Spiderman"
+      "Iroman"
     ],
     "enemigo": [
-    "Mandarín"
-  ]
-},
+      "Duende verde"
+    ]
+  },
+  
 {
-  "id": 3,
-  "nombreSuperHeroe": "Thor",
-  "nombreReal": "Thor Odinson",
-  "nombreSociedad": "Dios del Trueno",
-  "edad": 1000,
-  "planetaOrigen": "Asgard",
-  "debilidad": "Destruir su martillo",
+  "id": 2,
+  "nombreSuperheroe": "Iroman",
+  "nombreReal": "Tony Stark",
+   "nombreSociedad": "Vigilante", 
+  "edad": 45,
+  "planetaOrigen": "Tierra",
+    "debilidad": "Dependiente de la tecnologia",
   "poder": [
-    "Controlar el trueno",
-    "Fuerza sobrehumana",
-    "Inmortal"
+     "Armadura blindada",
+     "Volar",
+      "Laseres"
+     ],
+  
+    "habilidadEspecial": "Ingenieria avanzada",
+    "aliado": ["Spiderman"
   ],
-  "habilidadEspecial": [
-    "Invocación de tormentas"
-  ],
-  "aliado": [
-    "Loki"
-  ],
+
   "enemigo": [
-    "Hela"
+      "Mandarin"
+    ]
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Thor",
+    "nombreReal": "Thor Odinson",
+    "nombreSociedad": "Dios del trueno",
+    "edad": 1000,
+    "planetaOrigen": "Asgard",
+    "debilidad": "Destruir su martillo",
+    "poder": [
+      "Controlar el trueno",
+      "Fuerza sobrehumana",
+      "Inmortal"
+    ],
+    "habilidadEspecial": "Invocacion de tormentas",
+    "aliado": [
+      "Loki"
+    ],
+    "enemigo": [
+      "Hela"
+    ]
+  }
   ]
-}
-]
